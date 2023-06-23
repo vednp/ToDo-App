@@ -19,16 +19,8 @@ git clone https://github.com/vednp/ToDo-App.git
 2. Install the dependencies:
 
 ```bash
-npm install
+yarn install
 ```
-
-3. Start the server:
-
-```bash
-npm run start
-```
-
-4. Open your preferred web browser and navigate to `http://localhost:3000` to access the ToDo-App.
 
 ## Usage
 
