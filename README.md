@@ -1,13 +1,12 @@
 # ToDo-App
 
-ToDo-App is a simple web application built with HTML, CSS, and JavaScript. It allows you to manage your daily tasks and keep track of your to-do list.
+ToDo-App is a simple web application built with TypeScript, Node.js and ReactJs. It allows you to manage your daily tasks and keep track of your to-do list.
 
 ## Features
 
 - Add new tasks with a title and optional description.
 - Mark tasks as complete or incomplete.
 - Delete tasks that are no longer needed.
-- Filter tasks based on their status (all, complete, incomplete).
 
 ## Installation
 
@@ -36,7 +35,6 @@ npm run start
 - Type a task description in the input field and press Enter or click the "Add Task" button to add a new task.
 - Click the checkbox next to a task to mark it as complete or incomplete.
 - Click the "Delete" button to remove a task from the list.
-- Use the filter buttons at the top to show all tasks, complete tasks, or incomplete tasks.
 
 ## Contributing
 
