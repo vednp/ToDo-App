@@ -1,5 +1,7 @@
 # ToDo-App
 
+![ToDo-App](https://github.com/vednp/ToDo-App/blob/main/todo_app_screenshot.png)
+
 ToDo-App is a simple web application built with HTML, CSS, and JavaScript. It allows you to manage your daily tasks and keep track of your to-do list.
 
 ## Features
@@ -9,6 +11,11 @@ ToDo-App is a simple web application built with HTML, CSS, and JavaScript. It al
 - Delete tasks that are no longer needed.
 - Filter tasks based on their status (all, complete, incomplete).
 
+## Screenshots
+
+![Screenshot 1](https://github.com/vednp/ToDo-App/blob/main/screenshots/screenshot1.png)
+![Screenshot 2](https://github.com/vednp/ToDo-App/blob/main/screenshots/screenshot2.png)
+
 ## Installation
 
 1. Clone the repository:
@@ -17,7 +24,19 @@ ToDo-App is a simple web application built with HTML, CSS, and JavaScript. It al
 git clone https://github.com/vednp/ToDo-App.git
 ```
 
-2. Open the `index.html` file in your preferred web browser.
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+3. Start the server:
+
+```bash
+npm run start
+```
+
+4. Open your preferred web browser and navigate to `http://localhost:3000` to access the ToDo-App.
 
 ## Usage
 
@@ -29,3 +48,4 @@ git clone https://github.com/vednp/ToDo-App.git
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
