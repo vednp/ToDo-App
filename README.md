@@ -1,7 +1,5 @@
 # ToDo-App
 
-![ToDo-App](https://github.com/vednp/ToDo-App/blob/main/todo_app_screenshot.png)
-
 ToDo-App is a simple web application built with HTML, CSS, and JavaScript. It allows you to manage your daily tasks and keep track of your to-do list.
 
 ## Features
@@ -10,11 +8,6 @@ ToDo-App is a simple web application built with HTML, CSS, and JavaScript. It al
 - Mark tasks as complete or incomplete.
 - Delete tasks that are no longer needed.
 - Filter tasks based on their status (all, complete, incomplete).
-
-## Screenshots
-
-![Screenshot 1](https://github.com/vednp/ToDo-App/blob/main/screenshots/screenshot1.png)
-![Screenshot 2](https://github.com/vednp/ToDo-App/blob/main/screenshots/screenshot2.png)
 
 ## Installation
 
